@@ -2,6 +2,10 @@
 
 This is a dynamic Kanban board app built with React JS, designed to make task management a breeze! It integrates seamlessly with the [API](https://api.quicksell.co/v1/internal/frontend-assignment) from Quicksell, letting users fully customize their board view. You can effortlessly group tasks by status, user, or priority, and sort them by priority or title for a more streamlined experience. Plus, your personalized board layout stays intact, even after a page refresh. Say goodbye to resetting your view—this app has got you covered!
 
+## Demo
+
+You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+
 # Getting Started with Create React App
 
 To run the Kanban board application locally, follow these steps:
@@ -50,10 +54,6 @@ To run the Kanban board application locally, follow these steps:
 - Visually appealing and responsive design.
 - Ability to save the user's view state in local storage.
 - Priority levels are defined as Urgent (4), High (3), Medium (2), Low (1), and No priority (0).
-
-## Demo
-
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
 
 ## Usage
 
